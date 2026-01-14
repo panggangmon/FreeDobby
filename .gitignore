@@ -159,6 +159,8 @@ cython_debug/
 # Project-specific ignores
 data/
 logs/
+models/
+reports/
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
